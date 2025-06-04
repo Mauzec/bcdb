@@ -1,0 +1,12 @@
+{
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": true,
+        "go": false
+    },
+
+    "markdown-preview-enhanced.mermaidEngine": "mermaid",
+    "markdown-preview-enhanced.enableMermaid": true
+}
